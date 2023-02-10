@@ -17,6 +17,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizfelipe1914&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
+---
+
 <p align="center">Tecnologias e ferramentas
     <div align="center" style="display: inline_block">
         <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
@@ -30,7 +32,7 @@
         <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
         <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" />
         <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />
-        <img height="50" width="50 src="icons/zabbix.svg"/>            
+        <img height="50" width="50" src="icons/zabbix.svg" />            
     </div>
 </p>
 
