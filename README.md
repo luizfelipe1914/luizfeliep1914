@@ -63,7 +63,7 @@
   <a href=https://instagram.com/luizfsmachado?igshid=ZDdkNTZiNTM=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-machado-1075a7177/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div><br>
----
+
 <div align="center">
     <h2>Visitas a este perfil</h2>
     <img src="https://profile-counter.glitch.me/luizfelipe1914/count.svg" width="250px"/>
