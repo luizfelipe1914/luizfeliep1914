@@ -1,6 +1,6 @@
 
 
-## Olá! Sou Luiz Felipe 👋
+## Olá! Sou Luiz Felipe 
 
 <div align="center">
 <img src="https://c.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="150px"/>
@@ -49,9 +49,9 @@
 <p align="center">Na fila para ser estudado
     <div align="center" style="display: inline_block">
         <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-        <img height="50" width="50" src="icons/elastic.svg"/>  
-        <img height="50" width="50" src="icons/kibana.svg"/>
-        <img height="50" width="50" src="icons/logstash.svg"/>   
+        <img height="50" width="50" src="icons/elastic.svg"/>
+        <img height="50" width="50" src="icons/logstash.svg"/>  
+        <img height="50" width="50" src="icons/kibana.svg"/>>   
         <img height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-plain-wordmark.svg" />
         <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />             
     
