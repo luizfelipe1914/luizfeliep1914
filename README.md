@@ -51,7 +51,7 @@
         <img height="50" width="50" src="icons/elastic.svg"/>  
         <img height="50" width="50" src="icons/kibana.svg"/>
         <img height="50" width="50" src="icons/logstash.svg"/>   
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-plain-wordmark.svg" />
+        <img height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-plain-wordmark.svg" />
         <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />             
     </div>
 </p>
