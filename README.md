@@ -1,6 +1,6 @@
 
 
-## Olá! Sou Luiz Felipe 
+## Olá, Sou Luiz Felipe!
 
 <div align="center">
 <img src="https://c.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="150px"/>
