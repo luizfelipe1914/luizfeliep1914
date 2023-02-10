@@ -30,7 +30,7 @@
         <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
         <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" />
         <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />
-        <img src="icons/zabbix.svg"/>      
+        <img height="50" width="50 src="icons/zabbix.svg"/>      
           
     </div>
 </p>
@@ -55,11 +55,12 @@
         <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />             
     </div>
 </p>
+---
 <div align="center">
   <a href=https://instagram.com/luizfsmachado?igshid=ZDdkNTZiNTM=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-machado-1075a7177/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div><br>
-
+---
 <div align="center">
     <h2>Visitas a este perfil</h2>
     <img src="https://profile-counter.glitch.me/luizfelipe1914/count.svg" width="250px"/>
