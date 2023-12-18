@@ -32,7 +32,8 @@
         <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
         <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" />
         <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />
-        <img height="50" width="50" src="icons/zabbix.svg" />   
+        <img height="50" width="50" src="icons/zabbix.svg" /> 
+        <img height="50" width="50" src="icons/graylog-logo.svg" /> 
         <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" />
         <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-plain-wordmark.svg" />
         <img  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />          
