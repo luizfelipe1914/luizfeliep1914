@@ -35,9 +35,7 @@
         <img height="50" width="50" src="icons/zabbix.svg" />   
         <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" />
         <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-plain-wordmark.svg" />
-        <img  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-          
-          
+        <img  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />          
     </div>
 </p>
 
@@ -58,7 +56,8 @@
         <img height="50" width="50" src="icons/logstash.svg"/>  
         <img height="50" width="50" src="icons/kibana.svg"/>>   
         <img height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-plain-wordmark.svg" />
-        <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />             
+        <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />   
+    </div>
     
 </p>
 
